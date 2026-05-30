@@ -1,5 +1,5 @@
 
-# Business Analytics with Machine Learning and Excel
+# Machine Learning-Based Wine Supply Chain Optimization
 
 This project demonstrates how machine learning can be applied to business analytics using Excel datasets, Flask for the web interface, and pre-trained models to predict wine quality.
 
